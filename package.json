@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/yongyangwu/react-family-components/issues"
   },
-  "homepage": "https://github.com/yongyangwu/react-family-components#readme",
+  "homepage": "https://github.com/yongyangwu/react-family-components",
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
